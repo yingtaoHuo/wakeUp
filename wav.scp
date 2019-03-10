@@ -1,0 +1,5 @@
+wav/test_0000.WAV feature/test_0000.fbank
+wav/test_0001.WAV feature/test_0001.fbank
+wav/test_0002.WAV feature/test_0002.fbank
+wav/test_0003.WAV feature/test_0003.fbank
+wav/test_0004.WAV feature/test_0004.fbank
